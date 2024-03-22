@@ -1,5 +1,6 @@
 # Nguyễn Mai Ngọc Lâm
 ## 22/11/2002
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 ### hien dang la sinh vien nam 4
 # Website bán hàng online
 
@@ -32,7 +33,7 @@ Tôi tin rằng mỗi ngày là một cơ hội mới để học hỏi và phá
 - **Khoa:** CNTT
 - **Chuyên ngành:** Công nghệ phần mềm
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 ## Bắt Đầu
 
